@@ -1,4 +1,5 @@
 # FireBase Chating System
+Whatsapp type chat with text and image chat this app
 
 <img src="https://user-images.githubusercontent.com/60879476/75875121-1b286380-5e39-11ea-8cf3-2329dd059c36.png" width="200" alt="Game View" align="left" hspace="15">
 
